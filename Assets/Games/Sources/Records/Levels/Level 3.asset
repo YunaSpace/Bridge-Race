@@ -1,0 +1,204 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73d3995eb18ac5e42807455030400cf8, type: 3}
+  m_Name: Level 3
+  m_EditorClassIdentifier: Assembly-CSharp::YunaSpace.BridgeRace.LevelConfigRecord
+  Level: 2
+  Stages:
+  - Stage: 0
+    BridgeLength: 30
+    StagePosition: {x: 0, y: 0, z: 0}
+    LockerPosition: {x: 0, y: 18, z: 47.1}
+    PlatformPoints:
+    - {x: -16, y: -0, z: -7}
+    - {x: -16, y: -0, z: -11}
+    - {x: -16, y: -0, z: -15}
+    - {x: -16, y: -0, z: -17}
+    - {x: -14, y: -0, z: -17}
+    - {x: -0, y: -0, z: -17}
+    - {x: 14, y: -0, z: -17}
+    - {x: 16, y: -0, z: -17}
+    - {x: 16, y: -0, z: -15}
+    - {x: 16, y: -0, z: -11}
+    - {x: 16, y: -0, z: -7}
+    - {x: 20, y: -0, z: -1.5}
+    - {x: 20, y: -0, z: 5}
+    - {x: 20, y: -0, z: 9}
+    - {x: 20, y: -0, z: 13}
+    - {x: 20, y: -0, z: 15}
+    - {x: 18, y: -0, z: 15}
+    - {x: 12.059999, y: 0, z: 15}
+    - {x: 5, y: -0, z: 15}
+    - {x: 0, y: -0, z: 18}
+    - {x: -5, y: -0, z: 15}
+    - {x: -12, y: -0, z: 15}
+    - {x: -18, y: -0, z: 15}
+    - {x: -20, y: -0, z: 15}
+    - {x: -20, y: -0, z: 13}
+    - {x: -20, y: -0, z: 8.5}
+    - {x: -20, y: -0, z: 5}
+    - {x: -20, y: -0, z: -1}
+    PlatformEntrances:
+    - 0.7926771
+    - 0.7405571
+    - 0.6329152
+    - 0.58149165
+    BridgeDatas:
+    - Offset: {x: -14, y: 0, z: 16.5}
+      NextStage: 1
+    - Offset: {x: -7, y: 0, z: 16.5}
+      NextStage: 1
+    - Offset: {x: 7, y: 0, z: 16.5}
+      NextStage: 2
+    - Offset: {x: 14, y: 0, z: 16.5}
+      NextStage: 2
+  - Stage: 1
+    BridgeLength: 30
+    StagePosition: {x: -17, y: 15, z: 62}
+    LockerPosition: {x: 0, y: 18, z: 47.3}
+    PlatformPoints:
+    - {x: -16, y: -0, z: -6}
+    - {x: -16, y: -0, z: -17}
+    - {x: -6, y: -0, z: -17}
+    - {x: -0, y: -0, z: -17}
+    - {x: 14, y: -0, z: -17}
+    - {x: 16, y: -0, z: -17}
+    - {x: 16, y: -0, z: -15}
+    - {x: 16, y: -0, z: -11}
+    - {x: 16, y: -0, z: -7}
+    - {x: 16, y: -0, z: -1.5}
+    - {x: 16, y: -0, z: 5}
+    - {x: 16, y: -0, z: 9}
+    - {x: 16, y: -0, z: 13}
+    - {x: 16, y: -0, z: 15}
+    - {x: 14, y: -0, z: 15}
+    - {x: -0, y: -0, z: 15}
+    - {x: -5, y: -0, z: 15}
+    - {x: -16, y: -0, z: 15}
+    - {x: -16, y: -0, z: 4}
+    - {x: -16, y: -0, z: -1}
+    PlatformEntrances:
+    - 0.638571
+    - 0.27842638
+    - 0.21990141
+    BridgeDatas:
+    - Offset: {x: 10, y: 0, z: 16.5}
+      NextStage: 3
+  - Stage: 2
+    BridgeLength: 30
+    StagePosition: {x: 17, y: 15, z: 62}
+    LockerPosition: {x: 0, y: 18, z: 47.53}
+    PlatformPoints:
+    - {x: -16, y: -0, z: -7}
+    - {x: -16, y: -0, z: -11}
+    - {x: -16, y: -0, z: -15}
+    - {x: -16, y: -0, z: -17}
+    - {x: -14, y: -0, z: -17}
+    - {x: -0, y: -0, z: -17}
+    - {x: 6, y: -0, z: -17}
+    - {x: 16, y: -0, z: -17}
+    - {x: 16, y: -0, z: -6}
+    - {x: 16, y: -0, z: 5}
+    - {x: 16, y: -0, z: 6}
+    - {x: 16, y: -0, z: 15}
+    - {x: 6, y: -0, z: 15}
+    - {x: -0, y: -0, z: 15}
+    - {x: -14, y: -0, z: 15}
+    - {x: -16, y: -0, z: 15}
+    - {x: -16, y: -0, z: 13}
+    - {x: -16, y: -0, z: 8.5}
+    - {x: -16, y: -0, z: 5}
+    - {x: -16, y: -0, z: -1}
+    PlatformEntrances:
+    - 0.7707333
+    - 0.18681741
+    - 0.12789412
+    BridgeDatas:
+    - Offset: {x: -10, y: 0, z: 16.5}
+      NextStage: 3
+  - Stage: 3
+    BridgeLength: 30
+    StagePosition: {x: 0, y: 30, z: 124}
+    LockerPosition: {x: 0, y: 18, z: 47.24}
+    PlatformPoints:
+    - {x: -17, y: -0, z: -10}
+    - {x: -14, y: -0, z: -10}
+    - {x: -14, y: -0, z: -13.5}
+    - {x: -14, y: -0, z: -17}
+    - {x: -10.5, y: -0, z: -17}
+    - {x: -0, y: -0, z: -17}
+    - {x: 10.5, y: -0, z: -17}
+    - {x: 14, y: -0, z: -17}
+    - {x: 14, y: -0, z: -13.5}
+    - {x: 14, y: -0, z: -10}
+    - {x: 17, y: -0, z: -10}
+    - {x: 17, y: -0, z: -1}
+    - {x: 17, y: -0, z: 8}
+    - {x: 14, y: -0, z: 8}
+    - {x: 14, y: -0, z: 11.5}
+    - {x: 14, y: -0, z: 15}
+    - {x: 10.5, y: -0, z: 15}
+    - {x: -0, y: -0, z: 15}
+    - {x: -10.5, y: -0, z: 15}
+    - {x: -14, y: -0, z: 15}
+    - {x: -14, y: -0, z: 11.5}
+    - {x: -14, y: -0, z: 8}
+    - {x: -17, y: -0, z: 8}
+    - {x: -17, y: -0, z: -1}
+    PlatformEntrances:
+    - 0.23383163
+    - 0.1195475
+    - 0.70529085
+    - 0.6477111
+    BridgeDatas:
+    - Offset: {x: -3.5, y: 0, z: 16.5}
+      NextStage: 4
+    - Offset: {x: 3.5, y: 0, z: 16.5}
+      NextStage: 4
+  - Stage: 4
+    BridgeLength: 10
+    StagePosition: {x: 0, y: 45, z: 186}
+    LockerPosition: {x: 0, y: 18, z: 46}
+    PlatformPoints:
+    - {x: -16, y: -0, z: -7}
+    - {x: -16, y: -0, z: -11}
+    - {x: -16, y: -0, z: -15}
+    - {x: -16, y: -0, z: -17}
+    - {x: -14, y: -0, z: -17}
+    - {x: -0, y: -0, z: -17}
+    - {x: 14, y: -0, z: -17}
+    - {x: 16, y: -0, z: -17}
+    - {x: 16, y: -0, z: -15}
+    - {x: 16, y: -0, z: -11}
+    - {x: 16, y: -0, z: -7}
+    - {x: 12, y: -0, z: -1.5}
+    - {x: 16, y: -0, z: 5}
+    - {x: 16, y: -0, z: 9}
+    - {x: 16, y: -0, z: 13}
+    - {x: 16, y: -0, z: 15}
+    - {x: 14, y: -0, z: 15}
+    - {x: -0, y: -0, z: 15}
+    - {x: -14, y: -0, z: 15}
+    - {x: -16, y: -0, z: 15}
+    - {x: -16, y: -0, z: 13}
+    - {x: -16, y: -0, z: 8.5}
+    - {x: -16, y: -0, z: 5}
+    - {x: -12, y: -0, z: -1}
+    PlatformEntrances:
+    - 0.6993068
+    - 0.22703017
+    - 0.1716573
+    BridgeDatas:
+    - Offset: {x: 0, y: 0, z: 16.5}
+      NextStage: 5
+  GoalPosition: {x: 0, y: 49.51, z: 218.02}
+  NavMeshData: {fileID: 23800000, guid: 419cb30c3b2a6714fafc59dea0e5021b, type: 2}

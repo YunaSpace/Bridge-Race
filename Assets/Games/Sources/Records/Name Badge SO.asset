@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 842b2d1dd0d86a346b00fec17dc707d6, type: 3}
+  m_Name: Name Badge SO
+  m_EditorClassIdentifier: Assembly-CSharp::YunaSpace.BridgeRace.NameBadgeSO
+  Names:
+  - ShadowVex
+  - VoidPotato
+  - LagDestroyer
+  - OopsAllMiss
+  - NoScopeNoodle
+  - CriticalFailure
+  - RespawnDealer
+  - KeyboardGoblin
+  - AFKButDangerous
+  - PingOver9000
+  - Error404Aim
+  - SneakyBanana
+  - TofuAssassin
+  - QuantumYeet
+  - HitboxAbuser
+  - InvisiblePanic
+  - CertifiedNoob
+  - UltraInstinctLag
+  - BackstabBarista
+  - SaltyPixel
+  - AimNotFound
+  - CtrlAltDefeat
+  - RubberBandGod
+  - YeetMachine
+  - CouchSniper
+  - LoadingPleaseWait
+  - ClutchOrKickMe
+  - DamageWasAnAccident
+  - JustOneMoreDeath
+  - DefinitelyNotLost
+  - BlindSniperElite
+  - GhostOfMisses
+  - SpamAndPray
+  - TacticalOops
+  - SirMissALot
+  - MilkPoweredGamer
+  - HeadshotMaybe
+  - PanicReload
+  - UninstallSoon
+  - HalfHPHero
+  - Sneak100Fail100
+  - CasualTryhard
+  - OopsWasThatMe
+  - BoomerReflexes
+  - LaggyLegend27
+  - EmotionalDamageDealer
+  - NoPlanJustVibes
+  - SkillIssuePro
+  - AlmostCarried
+  - FriendlyFireEnjoyer
+  - HeadNoHair
